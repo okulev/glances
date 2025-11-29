@@ -368,7 +368,7 @@ rstcheck-core==1.2.2
     # via rstcheck
 ruamel-yaml==0.18.16
     # via semgrep
-ruamel-yaml-clib==0.2.14 ; python_full_version >= '3.10' or platform_python_implementation == 'CPython'
+ruamel-yaml-clib==0.2.15 ; python_full_version >= '3.10' or platform_python_implementation == 'CPython'
     # via
     #   ruamel-yaml
     #   semgrep
